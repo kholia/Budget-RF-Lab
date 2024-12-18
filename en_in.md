@@ -1,15 +1,15 @@
 # Budget RF Lab
 
-Build a RF lab on a budget. For homebrewers.
+Build a RF lab on a budget for homebrewers in India. This page is intended to be a `Systemization of Knowledge (SoK)` article.
 
-This page is intended to be a `Systemization of Knowledge (SoK)` article.
+*Please note that this is a list compiled to help and in no way a commercial endorsement of any vendors or links present in this article.*
 
 ## Equipment list
 
 | Si. No | Name                                                                                 | Assembly Time (in min) | Cost (in INR)                                                                                                 | Where to Buy                                                              | Comments                                                                                                                                                               | Links                                                                                                                                                                                                                                                           |
 |--------|--------------------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Earthing                                                                             | 2                      | ~0                                                                                                            | NA                                                                        | Use a regular 220v (standard line voltage in India) LED bulb between Live and Earth to check.                                                                          |                                                                                                                                                                                                                                                                 |
-| 2      | RF Probe                                                                             | 60 minutes             | <200                                                                                                          | LCSC, Robu, Project Point, Synergy Telecom - Delhi                        | Build one by following [this article](https://n5ese.com/rfprobe1.htm).                                                                                                 |                                                                                                                                                                                                                                                                 |
+| 2      | RF Probe                                                                             | 60 minutes             | <200                                                                                                          | LCSC, Robu, Project Point, Synergy Telecom - Delhi                        |                                                                                                                                                                        | Build one by following [this article](https://n5ese.com/rfprobe1.htm).                                                                                                                                                                                                                                                                |
 | 3      | Frequency generator (VFO)                                                            |                        | 500-700                                                                                                       | NA                                                                        |                                                                                                                                                                        | Details: https://github.com/kholia/pico-hf-oscillator, Alternate: Use https://github.com/kholia/EasyVFO to build a VFO using the Si5351 module and as a hack build a VFO (for shortwave) using Raspberry Pico 2                                                 |
 | 4      | Frequency counter                                                                    | 2                      | 500-800                                                                                                       |                                                                           | In many use cases, an oscilloscope can be used for checking the frequency of AF and RF signals. Note: Pico 2 has many 5v tolerant pins which is a very useful feature! | DIY using Raspberry Pi Pico 2 and following projects: https://github.com/kholia/pico_ft8_xcvr/tree/main/PicoFrequencyCounter-v2, https://github.com/kholia/pico_ft8_xcvr/tree/main/PicoFrequencyCounter, https://github.com/richardjkendall/rp2040-freq-counter |
 | 5      | Commercial Frequency Counter                                                         |                        | 1100                                                                                                          | https://rees52.com/                                                       | 9V Frequency Meter 500 MHz High Precision Reader RF                                                                                                                    | Related: Build a RF frequency counter buffer for HF https://www.nutsvolts.com/magazine/article/build-an-rf-frequency-counter-buffer-for-hf                                                                                                                      |
@@ -86,25 +86,3 @@ This page is intended to be a `Systemization of Knowledge (SoK)` article.
   - CD2003 receiver (< 500 INR) + random wire / active antenna
 
     See https://github.com/kholia/ConsensusBasedTimeSync for more details
-
-## Credits
-
-- Folks from the [HAMBREWERS group on Telegram](https://t.me/+TwzGyKGe8_QI_B3y)
-
-- https://voidstarsec.com/hw-hacking-lab/vss-lab-guide
-
-- VU2ESE - Ashhar Farhan spoke about starting out home-brewing at LARC 2024.
-
-- R2BDY - Roman
-
-- VU2TNA - Sanal Kumar G
-
-## References
-
-- https://github.com/kholia/HF-Balcony-Antenna-System
-
-- https://github.com/kholia/talks/
-
-- https://www.kk5jy.net/three-wire-gp/
-
-- https://www.pa0fri.com/ (active receiving antenna)
