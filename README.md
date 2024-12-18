@@ -33,13 +33,11 @@ This page is intended to be a `Systemization of Knowledge (SoK)` article.
 
   Details: https://github.com/kholia/pico-hf-oscillator
 
-  Alternate: Use https://github.com/kholia/EasyVFO to build a VFO using the
-  Si5351 module.
+  Alternate: Use https://github.com/kholia/EasyVFO to build a VFO using the Si5351 module.
 
 - Frequency counter
 
-  In many use cases, an oscilloscope can be used for checking the frequency of
-  AF and RF signals.
+  In many use cases, an oscilloscope can be used for checking the frequency of AF and RF signals.
 
   DIY using Raspberry Pi Pico 2 and following projects:
 
@@ -79,16 +77,17 @@ This page is intended to be a `Systemization of Knowledge (SoK)` article.
 
   The soldering iron should have temperature control.
 
-  In a pinch `HIKO Micro Soldering Iron Station – 12V` (350 INR) also works
-  fine but is slow to heat up!
+  In a pinch `HIKO Micro Soldering Iron Station – 12V` (350 INR) also works fine but is slow to heat up or `Soldron 25W` (350 INR)!
 
-  Pro-Tip: Invest in good soldering bits (tips)!
+  Pro-Tip: Invest in good soldering bits (tips) and ceramic tips if you can find them!
 
 - Multimeter - UNI-T ones are recommended.
 
   UNI-T UT33D+ is quite good for 800 INR.
 
   Vendor: https://www.toolworld.in
+
+  In a pinch, `Mastech MAS830L Digital Multimeter` (700 INR) works fine.
 
 - Linear power supply options
 
@@ -158,6 +157,8 @@ This page is intended to be a `Systemization of Knowledge (SoK)` article.
 
   Choose one to suit your budget.
 
+  In a pinch, chose a basic magnifying setup that comes with LED lighting that begin from 300 INR and based on your needs you can upgrade.
+
 - Local WSPR / FT8 / CW 10mW RF source
 
   Cost: 500 INR
@@ -181,13 +182,23 @@ This page is intended to be a `Systemization of Knowledge (SoK)` article.
   - 0.3mm soldering wire (from 2UUL or Mechanic brand) for soldering finer SMD
     components
 
-- Hardware tools: ESD safe tweezers, nose pliers, screwdriver set (Miniso
-  branded one is decent enough), side cutters, clamp, mini-vice
+- Hardware tools: ESD safe tweezers, nose pliers, screwdriver set (Miniso branded one is decent enough), side cutters, clamp, mini-vice
 
   Taparia and Stanley tend to make decent stuff.
 
-  You can get good quality tools from most of the local hardware markets as
-  well.
+  You can get good quality tools from most of the local hardware markets as well.
+
+- Line Tester
+
+  - Measuring range of upto 400V
+
+  Any local hardware store for upto 100 INR
+
+- Bench Vice/PCB Vice
+
+  Basic vice from Taparia, etc. from a local hardware shop
+
+  Entry level vice will range from 300 INR to 800 INR
 
 ## Tips
 
@@ -256,9 +267,11 @@ This page is intended to be a `Systemization of Knowledge (SoK)` article.
 
 - https://voidstarsec.com/hw-hacking-lab/vss-lab-guide
 
-- VU2ESE - Ashhar Farhan
+- VU2ESE - Ashhar Farhan spoke about starting out home-brewing at LARC 2024.
 
 - R2BDY - Roman
+
+- VU2TNA - Sanal Kumar G
 
 ## References
 
