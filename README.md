@@ -9,6 +9,7 @@ If you'd like to contribute for your geography or language please create the app
 | Geography | Language | Link              |
 |-----------|----------|-------------------|
 | India     | English  | [en_in](en_in.md) |
+| Türkiye   | Turkish  | [tr-tr](tr-tr.md) |
 
 ## Credits
 
