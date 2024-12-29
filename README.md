@@ -29,6 +29,8 @@ If you'd like to contribute for your geography or language please create the app
 
 - VU3GLJ - Bharath
 
+- TA1ANW - Buğra 
+
 ## References
 
 - https://github.com/kholia/HF-Balcony-Antenna-System
