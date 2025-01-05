@@ -7,6 +7,7 @@ It is organized as below,
 - [FLOSS Tools](FLOSS_Tools.md): Has all the tools for you to be able to use them.
 - [Projects](Projects.md): Has a list of projects that can get you started.
 - [RF Parts](RFParts.md): A list of useful hacker parts for RF communications projects.
+- [Schematic Sources](SchematicSources.md): Links to useful websites with schematics for amateur radio projects and ideas.
 
 ## Check for your country
 
