@@ -18,7 +18,7 @@ This contains a list of home-brew projects that you can try.
 | 7      | Local WSPR / FT8 / CW 10mW RF source | 2                      | ~500          |                                                    |  | [Easy-Digital-Beacons-v1](https://github.com/kholia/Easy-Digital-Beacons-v1), [Pico-FT8-TX](https://github.com/kholia/Pico-FT8-TX) |
 | 8      | Local SSB signal source              | 15                     |               |                                                    | All it takes is one wire to solder / plug-in | [rpitx](https://github.com/kholia/rpitx) |
 | 9      | RF Dummy load                        | 30                     | 500-700       |                                                    | DIY using a 50-ohm RF flange resistor + a suitable aluminum heat sink |  |
-| 10     | **RFGen (DIY RF Generator)**        | **2 Days**             | **~2000**      | NA                                                 | DIY RF square wave generator (0-900 MHz) using Arduino or STM32 | [Project Link](https://github.com/thesunRider/RFGen) |
+| 10     | RFGen (DIY RF Generator)        | 2 Days             | ~2000      | NA                                                 | DIY RF square wave generator (0-900 MHz) using Arduino or STM32 | [Project Link](https://github.com/thesunRider/RFGen) |
 
 
 ## RF security extended list
