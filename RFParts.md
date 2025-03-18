@@ -16,3 +16,6 @@ Turkish version: [Hacker dostu RF entegre devreleri](RFParts_tr.md).
 - ESP8266 / ESP32S Arduino-supported microcontrollers with built-in Wifi
 
 - Raspberry Pi Pico/Pico 2 W Pi Pico development boards with built-in Wifi
+
+- CMT2119AW : Frquency synthesiser chip from 250 - 900Mhz , Available at: https://robu.in/product/transmitter-chipset-cmt2119aw-esr/
+
