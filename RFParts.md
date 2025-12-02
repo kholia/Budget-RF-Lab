@@ -1,4 +1,5 @@
 ## Common hacker-friendly RF integrated circuits
+Turkish version: [Hacker dostu RF entegre devreleri](RFParts_tr.md).
 
 - SI5351A PLL frequency synthesizer
 
