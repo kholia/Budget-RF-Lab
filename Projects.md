@@ -1,4 +1,6 @@
 # Home-brew projects
+Turkish version: [Ev Yapımı Projeler](Projects_tr.md).
+
 Please feel free to add to this list of projects or modify this accordingly.
 
 ## List of starter projects

@@ -1,4 +1,5 @@
 # Software (FLOSS)
+Turkish version: [Yazılım (FLOSS)](FLOSS_Tools_tr.md).
 
 - LTspice - Sanity-check your ideas using LTspice
 
@@ -29,4 +30,3 @@
 - GNU Octave (https://octave.org/) MATLAB-like numerical processing language and environment
 
 - Anaconda (https://www.anaconda.com/) Python-based numerical calculation environment
-

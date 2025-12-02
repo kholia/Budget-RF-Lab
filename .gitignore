@@ -1,0 +1,9 @@
+# Claude AI files
+CLAUDE.md
+AGENTS.md
+
+# Common ignores
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
