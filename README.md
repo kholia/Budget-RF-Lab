@@ -33,7 +33,7 @@ It is organized as below,
 
 - VU3GLJ - Bharath
 
-- TA1ANW - Buğra
+- TA1JS - Buğra
 
 ## References
 
