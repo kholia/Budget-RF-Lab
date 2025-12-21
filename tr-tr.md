@@ -120,7 +120,7 @@ Bu deneyebileceğiniz ev yapımı projelerin bir listesini içerir.
 
 - VU2TNA - Sanal Kumar G
 
-- TA1ANW - Buğra
+- TA1JS - Buğra
 
 ## Katkı Sağlayanlar
 
@@ -128,7 +128,7 @@ Bu deneyebileceğiniz ev yapımı projelerin bir listesini içerir.
 
 - VU3GLJ - Bharath
 
-- TA1ANW - Buğra
+- TA1JS - Buğra
 
 ## Referanslar
 
